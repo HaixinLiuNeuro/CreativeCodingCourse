@@ -12,6 +12,16 @@ EXPLORE → FINCH CUP → JOUSTING → FINDING SPEED → SHAPES & LOOPS
 ```
 
 ---
+
+## Language Policy
+
+**7th grade is Snap! only.** Python is reserved for 8th grade.
+
+Snap! fluency is the goal this year. Students finish the course confident with sequences, variables, loops, conditionals, sensors, and basic functions — all expressed in blocks. Introducing Python before those concepts are automatic creates confusion rather than acceleration.
+
+**Exception — advanced individual extension only:** Students who consistently hit Gold on every challenge and finish early can be offered a printed Python reference card and invited to rewrite a completed program in Python on their own. This is individual enrichment, not class-wide instruction. No teaching period is used. The reference card is available at the extension station with the note: *"Already done? Try rewriting your sumo code in Python."* This plants the seed for 8th grade without derailing the class.
+
+---
 ---
 
 ## Phase A: Explore and Play (Periods 1–4)
@@ -266,6 +276,8 @@ repeat 4 times:
 - Students who are behind catch up on shape levels from period 9
 - Students who are ahead start exploring the [Drawing Shapes](https://learn.birdbraintechnologies.com/finch/projects/finch-drawingshapes) BirdBrain activity as extension
 - Or transition to LED outputs (next phase) early
+
+**Advanced extension station:** Students who have hit Gold on every challenge can visit the extension station and attempt to rewrite one of their loop programs in Python using the printed reference card. This is self-directed, ungraded, and framed as a preview of 8th grade — not a new expectation.
 
 > This is the built-in buffer. Every class moves at a different pace through patterns. This period absorbs that variance.
 
